@@ -1,6 +1,6 @@
 # node-web
 
-This is a basic Node web app that has jQuery and Bootstrap dependencies. This app includes a basic jQuery DOM manipulation and you'll also notice that the font of the div has changed due to the addition of Bootstrap.
+This is a basic Node web app that has a Bootstrap dependency. You'll also notice that the font of the div has changed due to the addition of Bootstrap.
 
 In order to run the project, you must have node installed.
 
