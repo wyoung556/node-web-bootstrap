@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-starter",
+  "version": "1.0.0",
+  "description": "A Bootstrap starter app",
+  "scripts": {
+    "start": "http-server -o -a localhost -d false -p 8000 -c-1 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayland Young",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "http-server": "^0.9.0"
+  }
+}
