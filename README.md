@@ -1,4 +1,4 @@
-# node-web
+# node-web-bootstrap
 
 This is a basic Node web app that has a Bootstrap dependency. You'll also notice that the font of the div has changed due to the addition of Bootstrap.
 
